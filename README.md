@@ -1,2 +1,5 @@
-# unix-timestamp-to-date
-Convert a unix timestamp to UTC and your local date.
+# Unix Timestamp to Date [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+>Convert a unix timestamp to UTC and your local date.
+
+Try demo: https://tools.waytolearnx.com/unix-timestamp-to-date
